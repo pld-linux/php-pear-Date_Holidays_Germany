@@ -6,12 +6,12 @@
 Summary:	%{_pearname} - Driver based class to calculate holidays in Germany
 Summary(pl.UTF-8):	%{_pearname} - klasa do obliczania świąt niemieckich
 Name:		php-pear-%{_pearname}
-Version:	0.1.0
+Version:	0.1.1
 Release:	1
 License:	PHP License
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
-# Source0-md5:	2f93b8f834f8512827864a5f5cdd4132
+# Source0-md5:	3fdd14ccd011c744a08951333601fb2c
 URL:		http://pear.php.net/package/Date_Holidays_Germany/
 BuildRequires:	php-pear-PEAR
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
